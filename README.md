@@ -1,2 +1,2 @@
 # E-Channelling
-Doctor channeling web application
+Doctor channeling web application using JSP
